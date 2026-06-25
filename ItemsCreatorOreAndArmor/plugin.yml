@@ -1,7 +1,6 @@
 ---
 name: ItemsPlus
 main: nestouille\itemsplus\Main
-src-namespace-prefix: nestouille\itemsplus
 version: "2.4.5"
 api: "5.0.0"
 author: Nest
